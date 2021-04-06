@@ -37,7 +37,8 @@ function giveTaux() {
     decimalCharacter: ",",
     decimalCharacterAlternative: ".",
     digitGroupSeparator: " ",
-    outputFormat: "number"
+    outputFormat: "number",
+    minimumValue: "0"
   }
 );
 
@@ -764,6 +765,5 @@ function Calcul() {
   }
 }
 
-// https://www.devenir-rentier.fr/t15317
 
-// mettre label form
+
