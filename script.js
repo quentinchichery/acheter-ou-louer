@@ -13,7 +13,6 @@ function giveTaux() {
     document.Saisie.tauxCredit.value = "0.65";
   }
 }
-
 [
   anElement1,
   anElement2,
