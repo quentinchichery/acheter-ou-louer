@@ -494,7 +494,7 @@ function Calcul() {
       show: false
     },
 
-    colors: ["#006855", "#f5eee8"],
+    colors: ["#006855", "#2f2e43"],
     legend: {
       fontSize: "15px"
     }
