@@ -47,7 +47,7 @@ h3 {
 }
 
 header {
-  background-color: #135536;
+  background-color: #006855;
   color: white;
 }
 
@@ -110,7 +110,7 @@ input[type="number"]::-webkit-outer-spin-button {
 }
 
 .results_input {
-  background-color: #fee9d7;
+  background-color: #f5eee8;
 }
 
 .result_top {
@@ -208,7 +208,7 @@ table {
 }
 
 table thead {
-  background-color: #135536;
+  background-color: #006855;
   color: honeydew;
   text-align: left;
   font-weight: bold;
@@ -224,7 +224,7 @@ table tr {
 }
 
 table tr:nth-of-type(even) {
-  background-color: #fdfaf2;
+  background-color: #f5eee8;
 }
 
 /* https://gist.github.com/CodeMyUI/80fdfc8ee765990e9d2406f5611de5dc#file-style-scss */
@@ -316,7 +316,7 @@ mark {
   line-height: 0em;
   padding-bottom: 0.7em;
   padding-top: 0em;
-  background-color: #fee9d7;
+  background-color: #f5eee8;
 }
 
 .entete_duree {
@@ -451,7 +451,7 @@ mark {
   top: 0px;
   right: 0px;
   text-align: center;
-  background-color: #4cbb7a;
+  background-color: #006855;
   border-radius: 50%;
   width: 24px;
   height: 24px;

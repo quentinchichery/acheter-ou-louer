@@ -1,16 +1,14 @@
 function giveTaux() {
-  if (document.Saisie.duree.value == "30") {
-    document.Saisie.tauxCredit.value = "1.50";
-  } else if (document.Saisie.duree.value == "25") {
-    document.Saisie.tauxCredit.value = "1.40";
+  if (document.Saisie.duree.value == "25") {
+    document.Saisie.tauxCredit.value = "3.7";
   } else if (document.Saisie.duree.value == "20") {
-    document.Saisie.tauxCredit.value = "1.25";
+    document.Saisie.tauxCredit.value = "3.5";
   } else if (document.Saisie.duree.value == "15") {
-    document.Saisie.tauxCredit.value = "1.00";
+    document.Saisie.tauxCredit.value = "3.3";
   } else if (document.Saisie.duree.value == "10") {
-    document.Saisie.tauxCredit.value = "0.8";
-  } else if (document.Saisie.duree.value == "5") {
-    document.Saisie.tauxCredit.value = "0.65";
+    document.Saisie.tauxCredit.value = "2.7";
+  } else if (document.Saisie.duree.value == "7") {
+    document.Saisie.tauxCredit.value = "2.7";
   }
 }
 [
@@ -496,7 +494,7 @@ function Calcul() {
       show: false
     },
 
-    colors: ["#4cbb7a", "#3BB0EF"],
+    colors: ["#006855", "#f5eee8"],
     legend: {
       fontSize: "15px"
     }
