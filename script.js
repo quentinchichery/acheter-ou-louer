@@ -469,8 +469,6 @@ function Calcul() {
     xaxis: {
       type: "category",
       categories: tableID,
-      type: "category",
-      categories: [],
       labels: {
         show: true,
         style: {
